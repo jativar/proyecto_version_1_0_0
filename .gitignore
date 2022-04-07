@@ -1,0 +1,5 @@
+# Indicar a git ignorar los archivos app.py y el directorio paquete1/
+app.py
+paquete1/
+docs/build/
+docs/source/_templates/

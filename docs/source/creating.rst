@@ -8,6 +8,7 @@ In this section, you will learn how to:
 * Import and Adjust the Appereance of your Video and Audio File 
 * Select and Preview a specific Audio Section 
 * Create Subtitles in the Editor 
+* Other options
 
 This video will teach you everything you need to know about creating subtitles, but if you prefer reading the instrucctions instead, keep scrolling down.
 
